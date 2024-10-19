@@ -5,6 +5,13 @@
 ## Overview
 
 This project showcases a responsive tourist website designed to provide essential information and services for travelers. It delivers a user-friendly experience with key functionalities to enhance travel planning.
+## Screenshots
+
+
+## Live Demo
+
+You can view the live demo of the tourist website at: [Live Demo](https://wamiq319.github.io/Bootstrap-Project/)
+
 
 ## Key Features
 
@@ -15,6 +22,15 @@ This project showcases a responsive tourist website designed to provide essentia
   - **Accommodation Options**: Listings of hotels and other lodging options.
   - **Travel Tips**: Useful tips and guides for tourists.
 - **Cross-Browser Compatibility**: The site has been tested across various web browsers for consistent performance.
+
+Here are some screenshots showcasing the design and functionality of the website:
+
+![Homepage](path/to/screenshot1.png)
+![Homepage](path/to/screenshot1.png)
+![Homepage](path/to/screenshot1.png)
+
+
+
 
 ## Technologies Used
 
