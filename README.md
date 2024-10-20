@@ -21,14 +21,17 @@ This project showcases a responsive tourist website designed to provide essentia
 
 Here are some screenshots showcasing the design and functionality of the website:
 
-![Homepage](path/to/screenshot1.png)
+![Homepage](Asssets/Image1.jpg)
 *Homepage featuring information about Jeju Island and key attractions.*
 
-![Gallery Section](path/to/screenshot2.png)
+![Gallery Section](Asssets/Image2.jpg)
 *Picture gallery showcasing the beauty of Jeju Island.*
 
-![Ticket Purchase and Inquiry Form](path/to/screenshot3.png)
+![Ticket Purchase and Inquiry Form](Asssets/Image3.jpg)
 *Buy ticket and inquiry form for travelers interested in visiting Jeju Island.*
+![Ticket Purchase and Inquiry Form](Asssets/Image4.jpg)
+*Buy ticket and inquiry form for travelers interested in visiting Jeju Island.*
+
 
 ## Live Demo
 
