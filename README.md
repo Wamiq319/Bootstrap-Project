@@ -21,7 +21,7 @@ This project showcases a responsive tourist website designed to provide essentia
 
 Here are some screenshots showcasing the design and functionality of the website:
 
-![Homepage](Assets/Image1.jpg)
+![HomePage](Assets/Image1.jpg)
 *Homepage featuring information about Jeju Island and key attractions.*
 
 ![Gallery Section](Assets/Image2.jpg)
